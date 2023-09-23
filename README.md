@@ -13,8 +13,24 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>   [Distributed Power Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage)  >> Smart Distributed DC Power  Management
 
 
-# Smart Distributed DC Power  Management
+# Smart Distributed DC Power Management (5V 60W)
+This smart distributed DC power managment and charging device has the purpose to charge 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night acording to the price of electricity cchange. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule battery charging acording to the price variations on the electricity markets.  
 
+
+**This revision features::**
+- 4 USB-C with power delivery
+- 3 USB-A for fast charging up to 60W
+- With 220V AC to DC converter and Power charging scheduler to allow charging only when the electricity price is lower (during the night) using machine learning algorithms.
+
+- With a 5.0V DC two wire connector to allow DC charging from another source (for instance from solar panels)
+- With a 5.0V DC two wire connector to power an indoor main DC line for all 5.0V devices and electronics (smartphones, tablets, or any other)
+-With individual power consumption metrics on all USB ports (voltage, current and power )
+-With detection of an empty/full "power wall" battery pack connected to one of the 3 USB-A ports
+
+<p align="center">
+   <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_front.png">
+   <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_back.png">
+</p>
 
 <br>
 
