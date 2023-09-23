@@ -14,7 +14,7 @@
 
 
 # Smart Distributed DC Power Management (5V 60W)
-This smart distributed DC power managment and charging device has the purpose to charge 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night acording to the price of electricity cchange. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule battery charging acording to the price variations on the electricity markets.  
+This smart distributed DC power management and charging device has the purpose to charge 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule battery charging according to the price variations on the electricity markets. 
 
 
 **This revision features::**
