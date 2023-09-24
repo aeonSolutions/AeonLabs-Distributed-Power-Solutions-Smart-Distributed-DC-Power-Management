@@ -32,6 +32,7 @@ This smart distributed DC power management and charging device has the purpose t
    <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_back.png">
 </p>
 
+You can read about this project on hackster [here](https://www.hackster.io/mtpsilva/ultra-low-power-home-dc-electrical-system-4th-iteration-d8294a).
 <br>
 
 ## Compatibility
