@@ -33,6 +33,10 @@ This smart distributed DC power management and charging device has the purpose t
 </p>
 
 You can read about this project on hackster [here](https://www.hackster.io/mtpsilva/ultra-low-power-home-dc-electrical-system-4th-iteration-d8294a).
+
+## Off the Grid usage (RV, Boats)
+This smart distributed power management device can be installed and utilized off the grid, such as sail boats and motor homes. It can do battery charging when AC plug is connected (this rev. max 60W) and a max 5V DC 5A solar charging to 3 USB-A ports. Meaning one can use those commercially available 100,000mA power banks as power walls. Or a real 5V DC power wall. Any will do as long as it runs on 5V DC and is able to connect to a USB-A Port.
+ 
 <br>
 
 ## Compatibility
