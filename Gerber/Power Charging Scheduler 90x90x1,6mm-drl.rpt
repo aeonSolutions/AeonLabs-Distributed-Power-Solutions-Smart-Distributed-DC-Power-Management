@@ -1,5 +1,5 @@
 Drill report for Power Charging Scheduler 90x90x1,6mm.kicad_pcb
-Created on 9/23/2023 1:03:48 PM
+Created on 9/27/2023 6:33:14 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -10,7 +10,7 @@ Copper Layer Stackup:
 Drill file 'Power Charging Scheduler 90x90x1,6mm-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (195 holes)
+    T1  0.400mm  0.0157"  (217 holes)
     T2  0.600mm  0.0236"  (2 holes)
     T3  0.650mm  0.0256"  (16 holes)  (with 16 slots)
     T4  0.900mm  0.0354"  (12 holes)
@@ -21,7 +21,7 @@ Drill file 'Power Charging Scheduler 90x90x1,6mm-PTH.drl' contains
     T9  1.829mm  0.0720"  (4 holes)
     T10  2.300mm  0.0906"  (6 holes)
 
-    Total plated holes count 265
+    Total plated holes count 287
 
 
 Drill file 'Power Charging Scheduler 90x90x1,6mm-NPTH.drl' contains
