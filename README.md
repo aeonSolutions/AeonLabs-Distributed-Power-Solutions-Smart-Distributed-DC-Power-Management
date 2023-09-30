@@ -59,6 +59,13 @@ This smart distributed power management device can be installed and utilized off
  </a>
 </p>
 
+<br>
+
+## Parts Needed
+
+- [98x98x32mm ABS Box Junction Box LK-C60](https://s.click.aliexpress.com/e/_DEvl2cR)
+  
+
 <br />
 <br />
 
