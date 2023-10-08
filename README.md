@@ -12,6 +12,12 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>   [Distributed Power Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage)  >> Smart Distributed DC Power  Management
 
+<p align="right">
+    sponsored by <br>
+    <a href="https://be.eurocircuits.com/">
+       <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
+    </a>
+</p>
 
 # Smart Distributed DC Power Management (5V 60W)
 This smart distributed DC power management and charging device has the purpose to charge 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule battery charging according to the price variations on the electricity markets. 
