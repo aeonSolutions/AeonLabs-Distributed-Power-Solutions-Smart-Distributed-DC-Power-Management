@@ -14,7 +14,7 @@
 
 <p align="right">
     sponsored by <br>
-    <a href="https://www.seeedstudio.com/">
+    <a href="https://www.seeedstudio.com/fusion.html">
        <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
     </a>
 </p>
