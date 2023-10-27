@@ -71,6 +71,11 @@ This smart distributed power management device can be installed and utilized off
 
 - [98x98x32mm ABS Box Junction Box LK-C60](https://s.click.aliexpress.com/e/_DEvl2cR)
   
+<br>
+<br>
+
+**About the sponsor** <br>
+[Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html) PCBA Service, offers comprehensive PCB manufacturing, prototype PCB assembly, and more. Their services cover everything from PCB fabrication, parts sourcing, assembly, to testing,. [Seeed Co-create Program](https://www.seeedstudio.com/co-create.html) can assist you in bringing your product to market with expert guidance and business networking.
 
 <br />
 <br />
